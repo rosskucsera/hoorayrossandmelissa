@@ -14,7 +14,7 @@ h1, h2, h3{font-family:'Libre Baskerville', serif;font-style:italic;-webkit-font
 body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:'Arapey',serif; font-style:italic;line-height:12px;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
 .waypoint{height:0;width:0;margin-top:-200px;position:absolute}
-.header_left .top_header h1{color:#FFF;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
+.header_left .top_header h1{color:black;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
 .header_left .top_header h2{color:#FFF;font-size:34px;line-height:40px;font-weight:200;margin:0;padding:0 0 20px}
 .divide{background-color:#E3E3E3;clear:both;float:left;height:1px;width:100%;margin:0;padding:0}
 .inner_section{width:770px;margin-right:auto;margin-left:auto;height:699px;padding-top:90px;display:none}
@@ -56,7 +56,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* Section one */
-.section_one{background-image:url(../images/pink_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
+.section_one{background-image:url(../images/yellow_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
 .section_one .iphone_section_one{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
 .section_one .inner_section h1{color: white;}
 .section_one .inner_section h2{float:left;margin-left:40px;font-size:42px;color:#595959;font-weight:200;padding-top:280px}
@@ -65,14 +65,13 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 .section_one .inner_section .section_text_wrapper{float:left;width:400px}
 
 
-
 /* Section two */
 .section_two{background-image:url(../images/blue_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none}
 .section_two .iphone_section_two{background-image:url(../images/key-card.png);height:699px;width:330px;float:right}
 .section_two .inner_section h1{color: white;}
 .section_two .inner_section h2{float:right;margin-left:40px;font-size:42px;color:#595959;font-weight:200;padding-top:280px}
-.section_two .inner_section h3{float:right;margin-left:40px;font-size:28px;line-height:48px;color:#595959;font-weight:200;color:white;padding-top: 40px;}
-.section_two .inner_section p{font-family:Arapey,'serif';float:right;margin-right:40px;font-size:21px;line-height:24px;color:white;font-weight:400;width:400px}
+.section_two .inner_section h3{float:left;margin-left:40px;font-size:28px;line-height:48px;color:#595959;font-weight:200;color:white;padding-top: 40px;}
+.section_two .inner_section p{font-family:Arapey,'serif';float:right;margin-right:40px;font-size:21px;line-height:24px;color:white;font-weight:400;width:400px;padding-top: 20px;}
 .section_two .inner_section .section_text_wrapper{float:left;width:400px}
 
 /* Section three */
@@ -109,7 +108,7 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 
 /* Team section */
 .section_team .inner_wrapper .team_member_wrapper{display:block;float:left;width:450px;margin-left:28px;}
-.team_member_wrapper .team_user_icon{background-repeat:no-repeat;float:left;height:120px;width:120px;margin-left: 100px;}
+.team_member_wrapper .team_user_icon{background-repeat:no-repeat;float:left;height:120px;width:120px;}
 .team_member_wrapper .team_member_info{float:left;margin-left:20px;margin-top:22px;width:160px}
 .team_member_info a.team_social_icon_twitter{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:0 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
 .team_member_info a.team_social_icon_dribbble{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:-38px 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
