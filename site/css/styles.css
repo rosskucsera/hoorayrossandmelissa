@@ -9,9 +9,9 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 ::-moz-focus-inner{border:0;margin:0;padding:0}
 a,a:visited{color:#2e2e2e;outline:none;text-decoration:none;}
 a:hover{color:#666;outline:none;text-decoration:none;}
-h1, h2, h3{font-family:'Raleway', sans-serif;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
+h1, h2, h3{font-family:'Libre Baskerville', serif;font-style:italic;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
 
-body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:"Georgia" serif;line-height:1;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
+body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:'Arapey',font-style:italic; serif;line-height:1;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
 .waypoint{height:0;width:0;margin-top:-200px;position:absolute}
 .header_left .top_header h1{color:#FFF;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
@@ -57,15 +57,16 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* Section one */
-.section_one{background-image:url(../images/grey_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
+.section_one{background-image:url(../images/pink_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
 .section_one .iphone_section_one{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
+.section_one .inner_section h1{color: white;}
 .section_one .inner_section h2{float:left;margin-left:40px;font-size:42px;color:#595959;font-weight:200;padding-top:280px}
 .section_one .inner_section p{float:left;margin-left:40px;font-size:21px;line-height:36px;color:#8D8D8D;font-weight:400;width:400px}
 .section_one .inner_section .section_text_wrapper{float:left;width:400px}
 
 
 /* Section two */
-.section_two{background-image:url(../images/black_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none}
+.section_two{background-image:url(../images/blue_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none}
 .section_two .iphone_section_two{background-image:url(../images/key-card.png);height:699px;width:330px;float:right}
 .section_two .inner_section .section_text_wrapper h2{float:left;margin-left:0;font-size:42px;color:#FFF;font-weight:400;padding-top:280px;text-align:right;width:400px}
 .section_two .inner_section .section_text_wrapper p{float:left;margin-left:0;font-size:21px;line-height:36px;color:#A5A5A5;font-weight:300;width:400px;text-align:right}
@@ -113,9 +114,9 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .team_title{text-align:center}
 .team_title h1{color:black;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px;margin-top: 30px;}
 .team_title h3{font-size:22px;font-weight:700;padding-top:60px;color:#595959}
-.section_team .inner_wrapper .team_title p{font-size:16px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-size:15px;font-weight:700;color:#545454}
-.team_member_wrapper .team_member_info p{font-size:13px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
+.section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
+.team_member_info h4{font-size:20px;font-weight:700;color:#545454}
+.team_member_wrapper .team_member_info p{font-size:18px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
 .team_user_icon.team_member_two{background-image:url(../images/team_member_2.png)}
 .team_user_icon.team_member_three{background-image:url(../images/team_member_3.png)}
@@ -166,7 +167,7 @@ a.google_play_button{clear:both}
 
 @media screen and (max-width: 480px) {
 .header_right .iphone_one{background-image:url(../images/save-the-date-small.png);background-repeat:no-repeat;height:400px;width:377px;margin-left:auto;margin-right:auto;margin-top:80px;z-index:0;display:none}	
-
+.iphone_section_one .iphone_section_two .iphone_section_three {background-image:url()}
 .section_team .inner_wrapper .team_member_wrapper{display: block;float: none;clear: both;height: 170px;width: 300px;margin-left: auto;margin-right: auto}
 .header .inner_wrapper {float: none;width:100%;margin-right:auto;margin-left:auto;padding-top: 30px;font-size: 16px;color: #AAA;line-height: 24px}
 
