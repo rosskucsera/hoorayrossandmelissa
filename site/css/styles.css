@@ -9,7 +9,7 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 ::-moz-focus-inner{border:0;margin:0;padding:0}
 a,a:visited{color:#2e2e2e;outline:none;text-decoration:none;}
 a:hover{color:#666;outline:none;text-decoration:none;}
-h1, h2, h3{font-family:"Georgia" font-style:italic; serif;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
+h1, h2, h3{font-family:'Raleway', sans-serif;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
 
 body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:"Georgia" serif;line-height:1;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
@@ -165,7 +165,7 @@ a.google_play_button{clear:both}
 }
 
 @media screen and (max-width: 480px) {
-.header_right .iphone_one{background-image:url(../images/save-the-date-small.png);background-repeat:no-repeat;height:400px;width:377px;margin-left:auto;margin-right:auto;z-index:0;display:none}	
+.header_right .iphone_one{background-image:url(../images/save-the-date-small.png);background-repeat:no-repeat;height:400px;width:377px;margin-left:auto;margin-right:auto;margin-top:80px;z-index:0;display:none}	
 
 .section_team .inner_wrapper .team_member_wrapper{display: block;float: none;clear: both;height: 170px;width: 300px;margin-left: auto;margin-right: auto}
 .header .inner_wrapper {float: none;width:100%;margin-right:auto;margin-left:auto;padding-top: 30px;font-size: 16px;color: #AAA;line-height: 24px}
