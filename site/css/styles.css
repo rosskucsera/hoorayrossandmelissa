@@ -121,14 +121,14 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
 .team_member_info h4{font-size:20px;font-weight:700;color:#545454}
 .team_member_info h2{font-size:20px;font-weight:700;color:black;}
-.team_member_wrapper .team_member_info p{font-size:18px;line-height:19px;font-style:none;color:#7F7F7F;padding-top:5px;padding-bottom:8px;width:300px;}
+.team_member_wrapper .team_member_info p{font-size:18px;line-height:19px;font-style:none;color:#7F7F7F;padding-top:5px;padding-bottom:8px;width:280px;}
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
 .team_user_icon.team_member_two{background-image:url(../images/team_member_2.png)}
 .team_user_icon.team_member_three{background-image:url(../images/team_member_3.png)}
 
 
 .team_member_wrapper_both{display:block;float:none;width:430px;margin-left:auto;margin-right:auto;}
-.team_member_info_both{float:left;margin-left:auto;margin-top:40px;width:700px;}
+.team_member_info_both{float:left;margin-left:auto;margin-top:40px;width:700px;padding-left: 10px;padding-right: 10px;}
 .team_member_info_both h4{font-size:20px;font-weight:700;color:#545454;}
 .team_member_info_both h2{font-size:20px;font-weight:700;color:black;}
 .team_member_info_both p{font-size:18px;line-height:19px;font-style:none;color:#7F7F7F;padding-top:10px;padding-bottom:8px;width:600px;}
