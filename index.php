@@ -37,22 +37,18 @@
 <div class="header_left">
 
 <div class="top_header">
-<h1>Ross and Melissa <br><strong>March 28, 2014</strong><br><strong>Charleston, SC</strong></h1>
+<h1><strong>Ross and Melissa</strong></h1>
+<h2>March 28, 2014</strong><br><strong>Charleston, SC</strong></h2>
 
 </div>
 
-<div class="mid_header">
 
-<p>We are getting married and would love for you to join us. We'll be updating this site with info about the big day. So stay tuned.</p>
-
-
-</div>
 </div>
 
 <div class="header_right">
 
 <div class="iphone_one"></div>
-<div class="iphone_two"></div>
+
 </div>
 
 </div>
@@ -77,8 +73,12 @@
 <div class="iphone_section_one"></div>
 
 <div class="section_text_wrapper">
-<h2>Save <strong>the date</strong></h2>
-<p>We won't forget the date and we hope you don't either. Just in case, download a calendar reminder for March 28th </p>
+<h2><strong>When</strong> and <strong>where</strong></h2>
+
+<p><br><strong>March 28, 2014</strong><br>
+Hamlin Plantation<br>Mt. Pleasant, South Carolina<br>
+</p>
+
 </div>
 </div>
 
@@ -101,9 +101,11 @@
 
 <div class="section_text_wrapper">
 
-<h2>Live <strong>Updates</strong></h2>
-<p>Mauris fringilla neque eu turpis dictum non vestibulum odio rutrum. Aenean blandit mattis urna, quis eleifend diam semper ac.</p>
-</div>
+<h2>A little <strong>about us</strong></h2>
+<p></p>
+<p><strong>Melissa</strong><br>Mauris fringilla neque eu turpis dictum non vestibulum odio rutrum. Aenean blandit mattis urna, quis eleifend diam semper ac.</p>
+<p></p>
+<p><strong>Ross</strong><br>Mauris fringilla neque eu turpis dictum non vestibulum odio rutrum. Aenean blandit mattis urna, quis eleifend diam semper ac.</p></div>
 <div class="iphone_section_two"></div>
 
 </div>
@@ -117,7 +119,7 @@
 
 
 
-<!----  Section three  ---->
+<!----  Section three  
 
 <div class="section_three">
 
@@ -136,7 +138,7 @@
 </div>
 
 </div>
-
+---->
 
 
 
@@ -152,14 +154,14 @@
 <div class="inner_wrapper">
 <div class="team_title">
 <h3>Accomodation</h3>
-<p>We've let a few hotels in the area know there's a big party going on. Book with them and be sure to ask for the Kucsera-Whitson block.</p>
+<p>Hold your horses, we don't have all the details on accommodation quite yet. We'll post the hotels with which we have secured a block very soon!</p>
 </div>
 
 
 
 
 
-<!----  Team member one  ---->
+<!----  Team member one  
 
 <div class="team_member_wrapper">
 <div class="team_user_icon team_member_one"></div>
@@ -171,12 +173,12 @@
 </div>
 </div>
 
+---->
 
 
 
 
-
-<!----  Team member two  ---->
+<!----  Team member two  
 
 <div class="team_member_wrapper">
 <div class="team_user_icon team_member_two"></div>
@@ -189,10 +191,10 @@
 </div>
 
 
+---->
 
 
-
-<!----  Team member three  ---->
+<!----  Team member three  
 
 <div class="team_member_wrapper">
 <div class="team_user_icon team_member_three"></div>
@@ -209,13 +211,13 @@
 
 </div>
 </div>
+---->
 
 
 
 
 
-
-<!----  Section features  ---->
+<!----  Section features 
 
 
 <div class="section_features">
@@ -233,10 +235,10 @@
 <div class="divide"></div>
 </div>
 
+---->
 
 
-
-<!----  Footer  ---->
+<!----  Footer  
 
 
 <div class="footer">
@@ -252,7 +254,7 @@
 </div>
 </div>
 
-
+---->
 
 
 
