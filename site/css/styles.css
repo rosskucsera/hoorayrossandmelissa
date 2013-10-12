@@ -58,7 +58,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 /* Section one */
 .section_one{background-image:url(../images/grey_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
-.section_one .iphone_section_one{background-image:url(../images/hamlin-location.png);height:400px;width:266px;float:left}
+.section_one .iphone_section_one{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
 .section_one .inner_section h2{float:left;margin-left:40px;font-size:42px;color:#595959;font-weight:200;padding-top:280px}
 .section_one .inner_section p{float:left;margin-left:40px;font-size:21px;line-height:36px;color:#8D8D8D;font-weight:400;width:400px}
 .section_one .inner_section .section_text_wrapper{float:left;width:400px}
@@ -104,13 +104,14 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 
 
 /* Team section */
-.section_team .inner_wrapper .team_member_wrapper{display:block;float:left;width:300px;margin-left:28px}
-.team_member_wrapper .team_user_icon{background-repeat:no-repeat;float:left;height:120px;width:120px}
+.section_team .inner_wrapper .team_member_wrapper{display:block;float:left;width:450px;margin-left:28px;}
+.team_member_wrapper .team_user_icon{background-repeat:no-repeat;float:left;height:120px;width:120px;margin-left: 100px;}
 .team_member_wrapper .team_member_info{float:left;margin-left:20px;margin-top:22px;width:160px}
 .team_member_info a.team_social_icon_twitter{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:0 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
 .team_member_info a.team_social_icon_dribbble{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:-38px 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
 .section_team{float:left;width:100%;padding-bottom:60px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#E3E3E3;display:none}
 .team_title{text-align:center}
+.team_title h1{color:black;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px;margin-top: 30px;}
 .team_title h3{font-size:22px;font-weight:700;padding-top:60px;color:#595959}
 .section_team .inner_wrapper .team_title p{font-size:16px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
 .team_member_info h4{font-size:15px;font-weight:700;color:#545454}
@@ -141,7 +142,7 @@ body{overflow-x:hidden}
 .top_header{padding: 30px;height:490px}
 .header_left{float: left;width: 50%;padding-top: 90px;margin-right: 0%;margin-left: 0%}
 .header_right{width: 50%;right: 0px;height: 700px;position: absolute;overflow-x: hidden}
-.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:307px;position:absolute;z-index:0;display:none}
+.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:600px;position:absolute;z-index:0;display:none:float:left;}
 
 .inner_section{width:100%;margin-right:0;margin-left:0;padding-top:50px}
 .section_one .inner_section h2{float:none;margin-left:0;font-size:28px;text-align:center;color:#595959;font-weight:200;padding-top:40px}
@@ -165,8 +166,8 @@ a.google_play_button{clear:both}
 
 @media screen and (max-width: 480px) {
 	
-.header_right{display:none}
-.header_left{float: left;width: 100%;padding-top: 90px;margin-right: 0px;margin-left: 0px}
+.header_right{height:530px;width:250px;float:none;margin-right:auto;margin-left:auto;clear:both;background-size:250px 530px}
+.header_left{float: none;width: 100%;padding-top: 90px;margin-right: 0px;margin-left: 0px}
 .section_team .inner_wrapper .team_member_wrapper{display: block;float: none;clear: both;height: 170px;width: 300px;margin-left: auto;margin-right: auto}
 .header .inner_wrapper .header_left .mid_header {float: left;width: 80%;padding: 10%;padding-top: 30px;font-size: 16px;color: #AAA;line-height: 24px}
 .header_left {float: left;width: 90%;padding-left: 5%;padding-right: 5%;padding-top: 70px;margin-right: 0px;margin-left: 0px}
