@@ -51,7 +51,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* Header iPhones */
-.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:505px;width:600px;margin-left: auto;margin-right: auto;z-index:0;display:none}
+.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:600px;width:600px;margin-left: auto;margin-right: auto;z-index:0;display:none}
 
 
 
@@ -144,7 +144,7 @@ body{overflow-x:hidden}
 .top_header{padding: 30px;height:490px}
 .header_left{float: left;width: 50%;padding-top: 90px;margin-right: 0%;margin-left: 0%}
 
-.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:505px;width:600px;margin-left:auto;margin-right:auto;z-index:0;display:none}
+.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:600px;width:600px;margin-left:auto;margin-right:auto;z-index:0;display:none}
 
 .inner_section{width:100%;margin-right:0;margin-left:0;padding-top:50px}
 .section_one .inner_section h2{float:none;margin-left:0;font-size:28px;text-align:center;color:#595959;font-weight:200;padding-top:40px}
