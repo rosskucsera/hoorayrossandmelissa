@@ -9,9 +9,9 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 ::-moz-focus-inner{border:0;margin:0;padding:0}
 a,a:visited{color:#2e2e2e;outline:none;text-decoration:none;}
 a:hover{color:#666;outline:none;text-decoration:none;}
-h1, h2, h3{font-family:"Helvetica Neue",Helvetica,Arial,Lucida Grande,sans-serif;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
+h1, h2, h3{font-family:"Georgia" font-style:italic; serif;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0}
 
-body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:"Helvetica Neue",Helvetica,Arial,Lucida Grande,sans-serif;line-height:1;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
+body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:"Georgia" serif;line-height:1;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
 .waypoint{height:0;width:0;margin-top:-200px;position:absolute}
 .header_left .top_header h1{color:#FFF;font-size:48px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
@@ -36,7 +36,7 @@ body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:"Helvetica Neu
 /* Header */
 .header{background-image:url(../images/header_background2.png);background-repeat:no-repeat;background-position:center top;height:882px;width:100%;float:left;display:none}
 .header_left{float:left;width:500px;padding-top:310px;display:none}
-.header_right{float:right;width:450px;padding-top:80px}
+.header_right{float:none;width:100%;padding-top:80px;margin-right:auto;margin-left: auto;}
 .top_header .header_or{font-size:15px;color:#A9A9A9;display:block;float:left;width:50px;text-align:center;padding-top:30px}
 .header .inner_wrapper .header_left .mid_header{float:left;width:100%;padding-top:160px;font-size:16px;color:#AAA;line-height:24px}
 .header .inner_wrapper .header_left .mid_header p{padding-top:34px}
@@ -51,7 +51,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* Header iPhones */
-.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:600px;position:absolute;z-index:0;display:none}
+.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:1000px;position:absolute;z-index:0;display:none}
 
 
 
@@ -142,7 +142,7 @@ body{overflow-x:hidden}
 .top_header{padding: 30px;height:490px}
 .header_left{float: left;width: 50%;padding-top: 90px;margin-right: 0%;margin-left: 0%}
 .header_right{width: 50%;right: 0px;height: 700px;position: absolute;overflow-x: hidden}
-.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:600px;position:absolute;z-index:0;display:none:float:left;}
+.header_right .iphone_one{background-image:url(../images/save-the-date.png);background-repeat:no-repeat;height:699px;width:600px;position:absolute;z-index:0;display:none:float:none;}
 
 .inner_section{width:100%;margin-right:0;margin-left:0;padding-top:50px}
 .section_one .inner_section h2{float:none;margin-left:0;font-size:28px;text-align:center;color:#595959;font-weight:200;padding-top:40px}
@@ -166,7 +166,6 @@ a.google_play_button{clear:both}
 
 @media screen and (max-width: 480px) {
 	
-.header_right{height:530px;width:250px;float:none;margin-right:auto;margin-left:auto;clear:both;background-size:250px 530px}
 .header_left{float: none;width: 100%;padding-top: 90px;margin-right: 0px;margin-left: 0px}
 .section_team .inner_wrapper .team_member_wrapper{display: block;float: none;clear: both;height: 170px;width: 300px;margin-left: auto;margin-right: auto}
 .header .inner_wrapper .header_left .mid_header {float: left;width: 80%;padding: 10%;padding-top: 30px;font-size: 16px;color: #AAA;line-height: 24px}
