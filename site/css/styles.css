@@ -113,13 +113,17 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .team_member_info a.team_social_icon_dribbble{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:-38px 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
 .section_team{float:left;width:100%;padding-bottom:60px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#E3E3E3;display:none}
 .team_title{text-align:center}
-.team_title h3{font-size:22px;font-weight:700;padding-top:60px;color:#595959}
-.section_team .inner_wrapper .team_title p{font-size:16px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-size:15px;font-weight:700;color:#545454}
-.team_member_wrapper .team_member_info p{font-size:13px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
+.team_title h3{font-size:24px;font-weight:700;padding-top:60px;color:#595959}
+.section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
+.team_member_info h4{font-size:28px;font-weight:700;color:#545454}
+.team_member_wrapper .team_member_info p{font-size:20px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
+.team_member_wrapper .team_member_info .hotel-note{font-size:14px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
 .team_user_icon.team_member_two{background-image:url(../images/team_member_2.png)}
 .team_user_icon.team_member_three{background-image:url(../images/team_member_3.png)}
+.team_user_icon.hotel_one{background-image:url(../images/hampton-inn.png)}
+.team_user_icon.hotel_two{background-image:url(../images/comfort-suites.png)}
+.team_user_icon.hotel_three{background-image:url(../images/residence-inn.png)}
 
 
 
@@ -155,7 +159,7 @@ a.google_play_button{clear:both}
 .section_features{height:auto}
 .section_features .divide{margin-top:30px}
 .section_features .inner_wrapper h3{padding-bottom:50px}
-.footer{margin-left:10%;margin-right:10%;clear:both;float:left;width:80%;height:70px;padding-top:30px;display:none}
+.footer{margin-left:10%;margin-right:10%;clear:both;text-align: center;width:80%;height:70px;padding-top:30px;display:none}
 .section_one .iphone_section_one,.section_two .iphone_section_two,.section_three .inner_section .iphone_section_three{height:530px;width:250px;float:none;margin-right:auto;margin-left:auto;clear:both;background-size:250px 530px}
 .section_one .inner_section .section_text_wrapper,.section_two .inner_section .section_text_wrapper,.section_three .inner_section .section_text_wrapper{float:none;width:90%;margin-left:5%;margin-right:5%}
 .feature_logo_one,.feature_logo_two,.feature_logo_three,.feature_logo_four{clear:both;width:200px;margin-bottom:50px;float:none;margin-right:auto;margin-left:auto}
