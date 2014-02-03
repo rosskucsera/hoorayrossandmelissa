@@ -63,7 +63,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* Gifts */
-.gifts{background-image:url(../images/handmadepaper.png);background-repeat:repeat;float:left;height:780px;width:100%;display:none}
+.gifts{background-image:url(../images/handmadepaper.png);background-repeat:repeat;float:left;height:600px;width:100%;display:none}
 .gifts .inner_section h2{text-align:center;font-size:42px;color:black;font-weight:700;}
 .gifts .inner_section p{text-align:center;font-size:21px;line-height:22px;color:black;font-weight:300;margin-left:auto;margin-right:auto;margin-top:20px;width:400px;}
 .gifts .inner_section p a{color:green;}
