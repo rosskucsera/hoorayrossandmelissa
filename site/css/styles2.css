@@ -118,7 +118,7 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .team_title h3{font-size:24px;font-weight:700;padding-top:60px;color:black;}
 .team_title h2{font-size:42px;color:#666666;font-weight:400;padding-top:40px;text-align:center;width:100%;}
 .section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:black;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-family:'Josefin Sans';font-weight: 700;line-height:1.2em;font-size:28px;font-weight:700;color:black;}
+.team_member_info h4{font-family:'Josefin Sans', 'Georgia';font-weight: 700;line-height:1.2em;font-size:28px;font-weight:700;color:black;}
 .team_member_wrapper .team_member_info p{font-family:'Josefin Sans';font-size:20px;font-weight: 400;color:black;padding-top:5px;padding-bottom:8px}
 .team_member_wrapper .team_member_info .hotel-note{font-size:14px;color:black;padding-top:5px;padding-bottom:8px}
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
