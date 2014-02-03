@@ -44,7 +44,7 @@ $(".iphone_two").show().addClass('animated fadeInRightBig');
 }, 1200);
 
 
-$(".when_where, .section_two, .section_three, .section_team, .section_features, .footer").show(); 
+$(".when_where, .about_us, .section_three, .section_team, .section_features, .footer").show(); 
 
 
 
@@ -54,8 +54,8 @@ $('.when_where .waypoint').waypoint(function(direction) {
 $(".when_where .inner_section").show().addClass('animated fadeInLeftBig');
 }, { offset: 0 })
 
-$('.section_two .waypoint').waypoint(function(direction) {
-$(".section_two .inner_section").show().addClass('animated fadeInRightBig');
+$('.about_us .waypoint').waypoint(function(direction) {
+$(".about_us .inner_section").show().addClass('animated fadeInRightBig');
 }, { offset: 0 })
 
 $('.section_three .waypoint').waypoint(function(direction) {
