@@ -44,7 +44,7 @@ $(".iphone_two").show().addClass('animated fadeInRightBig');
 }, 1200);
 
 
-$(".when_where, .rsvp, .about_us, .where_to_stay, .section_team, .section_features, .footer").show(); 
+$(".rsvp, .when_where, .about_us, .where_to_stay, .section_team, .section_features, .footer").show(); 
 
 
 
