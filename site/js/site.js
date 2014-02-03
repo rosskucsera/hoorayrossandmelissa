@@ -44,22 +44,22 @@ $(".iphone_two").show().addClass('animated fadeInRightBig');
 }, 1200);
 
 
-$(".when_where, .about_us, .where_to_stay, .section_team, .section_features, .footer").show(); 
+$(".section_one, .section_two, .section_three, .section_team, .section_features, .footer").show(); 
 
 
 
 
 <!----  Waypoints (scroll animations)  ---->
-$('.when_where .waypoint').waypoint(function(direction) {
-$(".when_where .inner_section").show().addClass('animated fadeInLeftBig');
+$('.section_one .waypoint').waypoint(function(direction) {
+$(".section_one .inner_section").show().addClass('animated fadeInLeftBig');
 }, { offset: 0 })
 
-$('.about_us .waypoint').waypoint(function(direction) {
-$(".about_us .inner_section").show().addClass('animated fadeInRightBig');
+$('.section_two .waypoint').waypoint(function(direction) {
+$(".section_two .inner_section").show().addClass('animated fadeInRightBig');
 }, { offset: 0 })
 
-$('.where_to_stay .waypoint').waypoint(function(direction) {
-$(".where_to_stay .inner_section").show().addClass('animated fadeInLeftBig');
+$('.section_three .waypoint').waypoint(function(direction) {
+$(".section_three .inner_section").show().addClass('animated fadeInLeftBig');
 }, { offset: 0 })
 
 
