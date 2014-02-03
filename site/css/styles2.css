@@ -9,11 +9,11 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 ::-moz-focus-inner{border:0;margin:0;padding:0}
 a,a:visited{color:#2e2e2e;outline:none;text-decoration:none;}
 a:hover{color:#666;outline:none;text-decoration:none;}
-h1, h2, h3{font-family:'Josefin Sans', sans-serif;line-height:1.2em;webkit-font-smoothing: antialiased;border:0;margin:0;padding:0;}
+h1, h2, h3{font-family:'Josefin Sans';line-height:1.2em;webkit-font-smoothing: antialiased;border:0;margin:0;padding:0;}
 
 
 
-body{-webkit-font-smoothing:antialiased; color:black;font-family:'Josefin Sans',sans-serif;line-height:1.2em;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
+body{-webkit-font-smoothing:antialiased; color:black;font-family:'Josefin Sans';line-height:1.2em;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
 .waypoint{height:0;width:0;margin-top:-200px;position:absolute}
 .header_left .top_header h1{color:black;font-size:34px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
@@ -23,7 +23,7 @@ body{-webkit-font-smoothing:antialiased; color:black;font-family:'Josefin Sans',
 
 
 /* Footer */
-.footer_left{float:left;width:auto;line-height:20px;font-size:12px;color:#A9A9A9;font-family:'Josefin Sans', sans-serif;}
+.footer_left{float:left;width:auto;line-height:20px;font-size:12px;color:#A9A9A9;font-family:'Josefin Sans';}
 .footer .inner_wrapper .footer_left p{font-size:12px;font-weight:700;color:#7D7D7D}
 .footer .inner_wrapper .footer_right{float:right}
 .footer .inner_wrapper{clear:both}
@@ -118,8 +118,8 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .team_title h3{font-size:24px;font-weight:700;padding-top:60px;color:black;}
 .team_title h2{font-size:42px;color:#666666;font-weight:400;padding-top:40px;text-align:center;width:100%;}
 .section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:black;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-family:'Josefin Sans', sans-serif;line-height:1.2em;font-size:28px;font-weight:700;color:black;}
-.team_member_wrapper .team_member_info p{font-family:'Josefin Sans', sans-serif;font-size:20px;color:black;padding-top:5px;padding-bottom:8px}
+.team_member_info h4{font-family:'Josefin Sans';line-height:1.2em;font-size:28px;font-weight:700;color:black;}
+.team_member_wrapper .team_member_info p{font-family:'Josefin Sans';font-size:20px;color:black;padding-top:5px;padding-bottom:8px}
 .team_member_wrapper .team_member_info .hotel-note{font-size:14px;color:black;padding-top:5px;padding-bottom:8px}
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
 .team_user_icon.team_member_two{background-image:url(../images/team_member_2.png)}
