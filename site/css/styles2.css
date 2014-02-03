@@ -35,7 +35,7 @@ body{-webkit-font-smoothing:antialiased; color:black;font-family:'Josefin Sans';
 
 
 /* Header */
-.header{background-image:url(../images/handmadepaper.png);height:882px;width:100%;}
+.header{background-image:url(../images/handmadepaper.png);background-repeat:repeat;height:882px;width:100%;}
 .header p{text-align:center;font-size:20px;font-family:'Josefin Sans';margin-top: -top:34px;}
 .header_left{float:left;width:500px;padding-top:310px;display:none}
 .header_right{width:90%px;padding-top:80px}
