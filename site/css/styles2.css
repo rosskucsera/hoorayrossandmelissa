@@ -59,7 +59,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* When & Where */
-.when_where{background-image:url(../images/yellow_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
+.when_where{background-color:#b7cad1;height:882px;width:100%;}
 .when_where .iphone_when_where{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
 .when_where .inner_section h2{float:left;margin-left:40px;font-size:42px;color:black;font-weight:200;padding-top:280px}
 .when_where .inner_section h3{float:left;margin-left:40px;font-size:20px;color:black;font-weight:200;padding-top:20px}
