@@ -67,7 +67,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* RSVP */
-.rsvp{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:882px;width:100%;display:none;}
+.rsvp{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:1200px;width:100%;display:none;}
 .rsvp .inner_section .section_text_wrapper h2{margin-left:40px;font-size:42px;color:black;font-weight:400;padding-top:280px;}
 .rsvp img.displayed {display:block; margin-left:auto; margin-right:auto; margin-bottom:15px;}
 .rsvp .inner_section p{text-align:center;font-size:21px;line-height:22px;color:black;font-weight:300;}
