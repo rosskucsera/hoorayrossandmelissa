@@ -67,12 +67,12 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* RSVP */
-.rsvp{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:882px;width:100%;display:none}
-.rsvp .inner_section .section_text_wrapper h2{float:left;margin-left:40px;font-size:42px;color:black;font-weight:400;padding-top:280px}
-.rsvp .inner_section .section_text_wrapper p{float:left;margin-left:40px;margin-top:20px;font-size:21px;line-height:22px;color:black;font-weight:300;width:350px}
-.rsvo .inner_section .section_text_wrapper{position:center;width:400px}
-.rsvo .inner_section .section_text_wrapper img{margin-left: auto;margin-right: auto}
-.rsvo .inner_section .iphone_rsvp{background-image:url(../images/palmetto.png);height:699px;width:330px;}
+.rsvp{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:882px;width:100%;display:none;}
+.rsvp .inner_section .section_text_wrapper h2{margin-left:40px;font-size:42px;color:black;font-weight:400;padding-top:280px;}
+.rsvp img.displayed {display:block; margin-left:auto; margin-right:auto; margin-bottom:15px;}
+.rsvp .inner_section p{text-align:center;font-size:21px;line-height:22px;color:black;font-weight:300;}
+
+
 
 /* About Us */
 .about_us{background-repeat:repeat;height:882px;width:100%;display:none}
