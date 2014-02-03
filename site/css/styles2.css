@@ -9,31 +9,21 @@ html,body,div,span,object,iframe,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,ci
 ::-moz-focus-inner{border:0;margin:0;padding:0}
 a,a:visited{color:#2e2e2e;outline:none;text-decoration:none;}
 a:hover{color:#666;outline:none;text-decoration:none;}
-<<<<<<< HEAD
-h1, h2, h3{font-family:'Josefin Sans';font-weight:700; line-height:1.2em;border:0;margin:0;padding:0;}
+h1, h2, h3{font-family:'Josefin Sans';font-weight: 700; line-height:1.2em;webkit-font-smoothing: antialiased;border:0;margin:0;padding:0;}
 
 
 
-body{font-family:'Josefin Sans';font-weight: 400;color:black;line-height:1.2em;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
-=======
-h1, h2, h3{font-family:'Libre Baskerville', serif;font-style:italic;-webkit-font-smoothing: antialiased;border:0;margin:0;padding:0;}
-
-body{-webkit-font-smoothing:antialiased;color:#2D2D2D;font-family:'Arapey',serif; font-style:italic;line-height:;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
->>>>>>> parent of 397d5ed... css updates to new fonts
+body{-webkit-font-smoothing:antialiased; color:black;font-family:'Josefin Sans';font-weight: 400;line-height:1.2em;word-wrap:break-word;overflow-x:hidden;background-image:none;background-color:#FFF;margin:0;padding:0;overflow-x:hidden}
 .inner_wrapper{width:1000px;margin-right:auto;margin-left:auto}
 .waypoint{height:0;width:0;margin-top:-200px;position:absolute}
-.header_left .top_header h1{color:#FFF;font-size:34px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
+.header_left .top_header h1{color:black;font-size:34px;line-height:54px;font-weight:200;margin:0;padding:0 0 20px}
 .divide{background-color:#E3E3E3;clear:both;float:left;height:1px;width:100%;margin:0;padding:0}
 .inner_section{width:770px;margin-right:auto;margin-left:auto;height:699px;padding-top:90px;display:none}
 
 
 
 /* Footer */
-<<<<<<< HEAD
-.footer_left{font-family:'Josefin Sans';font-weight: 400;line-height:20px;font-size:12px;color:#A9A9A9;float:left;width:auto;}
-=======
-.footer_left{float:left;width:auto;line-height:20px;font-size:12px;color:#A9A9A9;font-family: "Helvetica Neue", serif;}
->>>>>>> parent of 397d5ed... css updates to new fonts
+.footer_left{float:left;width:auto;line-height:20px;font-size:12px;color:#A9A9A9;font-family:'Josefin Sans';font-weight: 400;}
 .footer .inner_wrapper .footer_left p{font-size:12px;font-weight:700;color:#7D7D7D}
 .footer .inner_wrapper .footer_right{float:right}
 .footer .inner_wrapper{clear:both}
@@ -70,9 +60,9 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 /* Section one */
 .section_one{background-image:url(../images/yellow_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
 .section_one .iphone_section_one{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
-.section_one .inner_section h2{float:left;margin-left:40px;font-size:42px;color:#595959;font-weight:200;padding-top:280px}
-.section_one .inner_section h3{float:left;margin-left:40px;font-size:20px;color:#595959;font-weight:200;padding-top:20px}
-.section_one .inner_section p{float:left;margin-left:40px;font-size:21px;line-height:24px;margin-top:20px;color:#8D8D8D;font-weight:400;width:400px}
+.section_one .inner_section h2{float:left;margin-left:40px;font-size:42px;color:black;font-weight:200;padding-top:280px}
+.section_one .inner_section h3{float:left;margin-left:40px;font-size:20px;color:black;font-weight:200;padding-top:20px}
+.section_one .inner_section p{float:left;margin-left:40px;font-size:21px;line-height:24px;margin-top:20px;color:black;font-weight:400;width:400px}
 .section_one .inner_section .section_text_wrapper{float:left;width:400px}
 
 
@@ -81,22 +71,22 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 .section_two .inner_section .section_text_wrapper{float:left;width:100%;margin-top:20px;margin-bottom:20px;}
 .section_two .inner_section .section_text_wrapper .bio{float:left;width:45%;margin-top:20px;margin-right: 25px;}
 .section_two .inner_section .section_text_wrapper .how_we_met{float:left;width:100%;margin-top:20px;}
-.section_two h2{font-size:42px;color:#666666;font-weight:400;padding-top:20px;text-align:center;width:100%;}
-.section_two p{font-size:18px;line-height:19px;color:#A5A5A5;font-weight:300;width:100%;text-align:left;}
-.section_two h3{font-size:28px;color:#666666;font-weight:400;padding-top:20px;text-align:left;width:100%;}
+.section_two h2{font-size:42px;color:black;font-weight:400;padding-top:20px;text-align:center;width:100%;}
+.section_two p{font-size:18px;line-height:19px;color:black;font-weight:300;width:100%;text-align:left;}
+.section_two h3{font-size:28px;color:black;font-weight:400;padding-top:20px;text-align:left;width:100%;}
 
 
 /* Section three */
 .section_three{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:882px;width:100%;display:none}
-.section_three .inner_section .section_text_wrapper h2{float:left;margin-left:40px;font-size:42px;color:#595959;font-weight:400;padding-top:280px}
-.section_three .inner_section .section_text_wrapper p{float:left;margin-left:40px;margin-top:20px;font-size:21px;line-height:22px;color:white;font-weight:300;width:350px}
+.section_three .inner_section .section_text_wrapper h2{float:left;margin-left:40px;font-size:42px;color:black;font-weight:400;padding-top:280px}
+.section_three .inner_section .section_text_wrapper p{float:left;margin-left:40px;margin-top:20px;font-size:21px;line-height:22px;color:black;font-weight:300;width:350px}
 .section_three .inner_section .section_text_wrapper{float:left;width:400px}
 .section_three .inner_section .iphone_section_three{background-image:url(../images/palmetto.png);height:699px;width:330px;float:left}
 
 
 /* Section feature */
 .section_features{float:left;height:175px;width:100%;display:none}
-.section_features .inner_wrapper h3{font-size:14px;font-weight:400;color:#999;text-align:center;padding-top:40px;padding-bottom:30px}
+.section_features .inner_wrapper h3{font-size:14px;font-weight:400;color:black;text-align:center;padding-top:40px;padding-bottom:30px}
 .section_features a{-webkit-filter:grayscale(100%);opacity:0.5}
 .section_features a:hover{-webkit-filter:grayscale(0%);transition:opacity .25s ease-in-out;-moz-transition:opacity .25s ease-in-out;-webkit-transition:opacity .25s ease-in-out;opacity:1}
 .section_features .inner_wrapper{height:175px}
@@ -125,20 +115,12 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 .team_member_info a.team_social_icon_dribbble{background-image:url(../images/team_social_icons.png);background-repeat:no-repeat;background-position:-38px 0;display:block;float:left;height:29px;width:29px;margin-right:6px}
 .section_team{float:left;width:100%;padding-bottom:60px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#E3E3E3;display:none}
 .team_title{text-align:center}
-<<<<<<< HEAD
 .team_title h3{font-size:24px;font-weight:700;padding-top:60px;color:black;}
 .team_title h2{font-size:42px;color:#666666;font-weight:400;padding-top:40px;text-align:center;width:100%;}
 .section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:black;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-family:'Josefin Sans';font-weight: 700;line-height:1.2em;font-size:28px;color:black;}
+.team_member_info h4{font-family:'Josefin Sans';font-weight: 700;line-height:1.2em;font-size:28px;font-weight:700;color:black;}
 .team_member_wrapper .team_member_info p{font-family:'Josefin Sans';font-size:20px;font-weight: 400;color:black;padding-top:5px;padding-bottom:8px}
 .team_member_wrapper .team_member_info .hotel-note{font-size:14px;color:black;padding-top:5px;padding-bottom:8px}
-=======
-.team_title h3{font-size:24px;font-weight:700;padding-top:60px;color:#595959}
-.section_team .inner_wrapper .team_title p{font-size:20px;font-weight:200;color:#929292;padding-top:5px;padding-bottom:50px}
-.team_member_info h4{font-size:28px;font-weight:700;color:#545454}
-.team_member_wrapper .team_member_info p{font-size:20px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
-.team_member_wrapper .team_member_info .hotel-note{font-size:14px;color:#7F7F7F;padding-top:5px;padding-bottom:8px}
->>>>>>> parent of 397d5ed... css updates to new fonts
 .team_user_icon.team_member_one{background-image:url(../images/team_member_1.png)}
 .team_user_icon.team_member_two{background-image:url(../images/team_member_2.png)}
 .team_user_icon.team_member_three{background-image:url(../images/team_member_3.png)}
@@ -163,7 +145,7 @@ a.appstore_icon{background-image:url(../images/social_icons.png);float:left;heig
 	
 body{overflow-x:hidden}
 .inner_wrapper{width:100%;margin-right:0;margin-left:0}
-.header .inner_wrapper .header_left .mid_header {float: left;width: 80%;padding: 10%;padding-top: 15px;font-size: 16px;color: #AAA;line-height: 24px}
+.header .inner_wrapper .header_left .mid_header {float: left;width: 80%;padding: 10%;padding-top: 15px;font-size: 16px;color:black;line-height: 24px}
 .header_wrapper{background-image: url(../images/loading_icon.gif);background-position: center 200px}
 .top_header{padding: 30px;height:490px}
 .header_right{width:100%;overflow-x: hidden;}
@@ -189,7 +171,7 @@ a.google_play_button{clear:both}
 .section_two .inner_section .section_text_wrapper{float:left;width:90%;margin-top:20px;margin-bottom:20px;}
 .section_two .inner_section .section_text_wrapper .bio{float:left;width:90%;margin-top:20px;}
 .section_two h2{font-size:42px;color:#666666;font-weight:400;padding-top:20px;text-align:center;width:100%;}
-.section_two p{font-size:18px;line-height:19px;color:#A5A5A5;font-weight:300;width:100%;text-align:left;}
+.section_two p{font-size:18px;line-height:24px;color:#A5A5A5;font-weight:300;width:100%;text-align:left;}
 .section_two h3{font-size:28px;color:#666666;font-weight:400;padding-top:20px;text-align:left;width:100%;}
 
 .section_three .inner_section .section_text_wrapper h2{float:none;text-align: center;margin-left:auto;margin-right: auto;font-size:42px;color:#595959;font-weight:400;padding-top:40px;width: 90%;}
