@@ -59,7 +59,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* When & Where */
-.when_where{background-color:#b7cad1;height:882px;width:100%;}
+.when_where{background-image:url(../images/yellow_background.png);background-repeat:repeat;height:882px;width:100%;float:left;display:none;margin:0;padding:0}
 .when_where .iphone_when_where{background-image:url(../images/march-28.png);height:699px;width:330px;float:left}
 .when_where .inner_section h2{float:left;margin-left:40px;font-size:42px;color:black;font-weight:200;padding-top:280px}
 .when_where .inner_section h3{float:left;margin-left:40px;font-size:20px;color:black;font-weight:200;padding-top:20px}
@@ -68,9 +68,9 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 
 
 /* RSVP */
-.rsvp{background-image:url(../images/blue_background.png);background-repeat:repeat;float:left;height:1100px;width:100%;display:none;margin-top:-20px;}
+.rsvp{background-color:#b7cad1;background-repeat:repeat;float:left;height:1000px;width:100%;display:none;margin-top:-20px;}
 .rsvp .inner_section .section_text_wrapper h2{margin-left:40px;font-size:42px;color:black;font-weight:400;padding-top:280px;}
-.rsvp img.displayed {display:block; margin-left:auto; margin-right:auto; margin-bottom:15px;}
+.rsvp img.displayed {display:block; margin-left:auto; margin-right:auto; margin-bottom:15px;margin-top:-40px;}
 .rsvp .inner_section p{text-align:center;font-size:21px;line-height:22px;color:black;font-weight:300;}
 
 
