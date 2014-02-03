@@ -44,12 +44,16 @@ $(".iphone_two").show().addClass('animated fadeInRightBig');
 }, 1200);
 
 
-$(".when_where, .about_us, .where_to_stay, .section_team, .section_features, .footer").show(); 
+$(".when_where, .rsvp, .about_us, .where_to_stay, .section_team, .section_features, .footer").show(); 
 
 
 
 
 <!----  Waypoints (scroll animations)  ---->
+$('.rsvp .waypoint').waypoint(function(direction) {
+$(".rsvp .inner_section").show().addClass('animated fadeInLeftBig');
+}, { offset: 0 })
+
 $('.when_where .waypoint').waypoint(function(direction) {
 $(".when_where .inner_section").show().addClass('animated fadeInLeftBig');
 }, { offset: 0 })
