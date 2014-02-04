@@ -163,7 +163,7 @@ body{overflow-x:hidden}
 .header_wrapper{background-image: url(../images/loading_icon.gif);background-position: center 200px}
 .top_header{padding: 30px;height:490px}
 .header_right{width:100%;overflow-x: hidden;}
-.header_right .iphone_one{background-image:url(../images/ross-and-melissa500px.png);background-repeat:no-repeat;height:500px;width:500px;z-index:0;margin-top:200px;}
+.header_right .iphone_one{background-image:url(../images/ross-and-melissa500px.png);background-repeat:no-repeat;height:500px;width:500px;z-index:0;margin-top:150px;}
 .inner_section{width:100%;margin-right:0;margin-left:0;padding-top:50px}
 .when_where .inner_section h2{float:none;margin-left:0;font-size:42px;text-align:center;color:#595959;font-weight:700;padding-top:10px}
 .where_to_stay .inner_section h2{float:none;margin-left:0;margin-top:-80px;font-size:42px;text-align:center;color:#595959;font-weight:700;padding-top:10px}
