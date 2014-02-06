@@ -183,7 +183,7 @@ a.google_play_button{clear:both}
 .feature_logo_one,.feature_logo_two,.feature_logo_three,.feature_logo_four{clear:both;width:200px;margin-bottom:50px;float:none;margin-right:auto;margin-left:auto}
 .section_team .inner_wrapper .team_member_wrapper{display: block;float: none;clear: both;height: 170px;width: 300px;margin-left: auto;margin-right: auto}
 
-.about_us .inner_section .section_text_wrapper{float:left;width:90%;margin-top:20px;margin-bottom:20px;}
+.about_us .inner_section .section_text_wrapper{float:left;width:90%;margin-top:5px;margin-bottom:20px;}
 .about_us .inner_section .section_text_wrapper .bio{float:left;width:90%;margin-top:20px;}
 .about_us h2{font-size:42px;color:#666666;font-weight:700;padding-top:20px;text-align:center;width:100%;}
 .about_us p{font-size:18px;line-height:24px;color:#A5A5A5;font-weight:300;width:100%;text-align:left;}
