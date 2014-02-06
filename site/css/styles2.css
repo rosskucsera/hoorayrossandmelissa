@@ -222,8 +222,3 @@ a.google_play_button{clear:both}
 .header {background-size:100% 646px}
 
 }
-
-@media 
-(-webkit-min-device-pixel-ratio: 2), 
-(min-resolution: 192dpi) { 
-.header_right .iphone_one{background-image:url(../images/ross-and-melissa-500px.png);background-repeat:no-repeat;height:300px;width:300px;z-index:0;margin-top: 40px;}}
