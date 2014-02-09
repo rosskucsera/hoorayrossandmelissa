@@ -56,7 +56,7 @@ a.google_play_button{background-image:url(../images/store_buttons.png);backgroun
 .header_right .iphone_one{background-image:url(../images/ross-and-melissa.png);background-repeat:no-repeat;height:600px;width:600px;margin-left: auto;margin-right: auto;z-index:0;display:none;margin-top:60px;}
 
 /* RSVP */
-.rsvp{background-color:#b7cad1;background-repeat:repeat;float:left;height:1030px;width:100%;display:none;margin-top:-20px;}
+.rsvp{background-color:#b7cad1;background-repeat:repeat;float:left;height:1100px;width:100%;display:none;margin-top:-20px;}
 .rsvp .inner_section .section_text_wrapper h2{margin-left:40px;font-size:42px;color:black;font-weight:700;padding-top:280px;}
 .rsvp img.displayed {display:block; margin-left:auto; margin-right:auto; margin-bottom:15px;margin-top:20px;}
 .rsvp .inner_section p{text-align:center;font-size:21px;line-height:22px;color:black;font-weight:300;}
